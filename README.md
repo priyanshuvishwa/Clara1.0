@@ -29,7 +29,12 @@ Clara1.0/
 └── tsconfig.json       # TypeScript configuration
 
 
-## 🛠️ Getting Started
+
+
+
+
+
+🛠️ Getting Started
 
 ### Prerequisites
 
