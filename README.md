@@ -27,3 +27,61 @@ Clara1.0/
 ├── postcss.config.mjs  # PostCSS configuration
 ├── tailwind.config.ts  # Tailwind configuration
 └── tsconfig.json       # TypeScript configuration
+
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/) (v14 or higher)
+- [pnpm](https://pnpm.io/) (v6 or higher)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/priyanshuvishwa/Clara1.0.git
+cd Clara1.0
+```
+
+2. Install dependencies:
+
+```bash
+pnpm install
+```
+
+3. Run the development server:
+
+```bash
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to see the application running.
+
+## 📜 Scripts
+
+- `pnpm dev` - Start the development server
+- `pnpm build` - Build the app for production
+- `pnpm start` - Start the production server
+- `pnpm lint` - Run ESLint for code quality checks
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature/my-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/my-feature`
+5. Open a pull request
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+Created by [@priyanshuvishwa](https://github.com/priyanshuvishwa) – feel free to reach out!
